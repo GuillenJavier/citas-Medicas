@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "681e0b7a078a5db0ac98f7b9"
+  },
+  "usuarioId": {
+    "$oid": "656000000000000000000003"
+  },
+  "mensaje": "Tiene una cita el 1 de junio a las 9:00 AM",
+  "fecha_envio": {
+    "$date": "2025-05-09T14:04:42.654Z"
+  },
+  "estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "681e0b7a078a5db0ac98f7ba"
+  },
+  "usuarioId": {
+    "$oid": "656000000000000000000003"
+  },
+  "mensaje": "Recordatorio: cita el 2 de junio a las 11:30 AM",
+  "fecha_envio": {
+    "$date": "2025-05-09T14:04:42.654Z"
+  },
+  "estado": "Leída"
+}]

@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "656000000000000000000001"
+  },
+  "nombre": "Ana López",
+  "correo": "ana.lopez@gmail.com",
+  "contraseña": "hash1",
+  "tipo": "Médico"
+},
+{
+  "_id": {
+    "$oid": "656000000000000000000003"
+  },
+  "nombre": "Luis Martínez",
+  "correo": "luis.martinez@gmail.com",
+  "contraseña": "hash2",
+  "tipo": "Paciente"
+}]

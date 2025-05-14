@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "681e0b7a078a5db0ac98f7b7"
+  },
+  "pacienteId": {
+    "$oid": "656000000000000000000003"
+  },
+  "diagnostico": "Gripe",
+  "tratamiento": "Paracetamol y descanso",
+  "fecha_actualizacion": {
+    "$date": "2024-04-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e0b7a078a5db0ac98f7b8"
+  },
+  "pacienteId": {
+    "$oid": "656000000000000000000003"
+  },
+  "diagnostico": "Migraña",
+  "tratamiento": "Ibuprofeno y reposo",
+  "fecha_actualizacion": {
+    "$date": "2024-05-05T12:30:00.000Z"
+  }
+}]
